@@ -2275,7 +2275,7 @@ var socials = [
     {
         label: "Reddit",
         icon: "RedditIcon",
-        href: "https://www.reddit.com/r/GooseFinanceofficial",
+        href: "https://www.reddit.com/r/TacoPartyofficial",
     },
 ];
 var MENU_HEIGHT = 64;
